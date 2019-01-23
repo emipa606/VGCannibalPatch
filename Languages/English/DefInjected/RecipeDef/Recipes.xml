@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stirfry -->
+
+  <CAN_Stirfrymeal.label>Cook four cannibal stir-fried meals</CAN_Stirfrymeal.label>
+  <CAN_Stirfrymeal.description>Cooks a stir-fried meal from a combination of human meat and raw plant ingredients. \n\nMakes enough for 4 meals.  \n\nFood Effects: Manipulation and Blood Filtration.</CAN_Stirfrymeal.description>
+  <CAN_Stirfrymeal.jobString>Cooking cannibal stir-fried meals.</CAN_Stirfrymeal.jobString>
+
+
+  <!-- Stew -->
+
+  <CAN_Cookstewpot.label>Cook eight pots of cannibal stew</CAN_Cookstewpot.label>
+  <CAN_Cookstewpot.description>Slow cooks a pot of stew from a combination of human meat and raw plant ingredients. \n\nMakes enough for 8 meals. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</CAN_Cookstewpot.description>
+  <CAN_Cookstewpot.jobString>Slow cooking cannibal stew.</CAN_Cookstewpot.jobString>
+
+
+  <!-- Tacos -->
+
+  <CAN_CookTacos.label>Cook five cannibal tacos</CAN_CookTacos.label>
+  <CAN_CookTacos.description>Human meat and Cheese in a corn shell. Requires human meat, cheese, and cornmeal to make. \n\n Makes 5 servings. \n\nFood Effects: Manipulation and Metabolism.</CAN_CookTacos.description>
+  <CAN_CookTacos.jobString>Preparing cannibal tacos.</CAN_CookTacos.jobString>
+
+
+  <!-- Salted Meat -->
+
+  <CAN_SaltMeat.label>Salt ten human meats</CAN_SaltMeat.label>
+  <CAN_SaltMeat.description>Preserve human meats in salt to prevent spoiling.</CAN_SaltMeat.description>
+  <CAN_SaltMeat.jobString>Salting human meat.</CAN_SaltMeat.jobString>
+
+
+  <!-- Kabob -->
+
+  <CAN_GrillKabob.label>Grill two cannibal kabobs</CAN_GrillKabob.label>
+  <CAN_GrillKabob.description>Human meats and vegetables skewered on a stick and grilled to perfection.</CAN_GrillKabob.description>
+  <CAN_GrillKabob.jobString>Grilling cannibal kabob.</CAN_GrillKabob.jobString>
+
+
+  <!-- Grilled Steak -->
+
+  <CAN_Grillsteak.label>Grill two human steaks</CAN_Grillsteak.label>
+  <CAN_Grillsteak.description>Human meat that has been cooked over a grill. //nMakes 2 Human Steaks.</CAN_Grillsteak.description>
+  <CAN_Grillsteak.jobString>Grilling human steak.</CAN_Grillsteak.jobString>
+
+
+  <!-- Pizza -->
+
+  <CAN_Bakepizza.label>Bake three cannibal pizzas</CAN_Bakepizza.label>
+  <CAN_Bakepizza.description>Bake cannibal pizza. \n\nMakes 3 servings. \n\nFood Effects: Consciousness and Metabolism.</CAN_Bakepizza.description>
+  <CAN_Bakepizza.jobString>Baking cannibal pizza.</CAN_Bakepizza.jobString>
+
+
+  <!-- Meat Pie -->
+
+  <CAN_BakeMeatPie.label>Bake two human meat pies</CAN_BakeMeatPie.label>
+  <CAN_BakeMeatPie.description>Bake a tasty cannibal pie. \n\nMakes 2 pies.</CAN_BakeMeatPie.description>
+  <CAN_BakeMeatPie.jobString>Baking cannibal pie.</CAN_BakeMeatPie.jobString>
+
+
+  <!-- Cheeseburger -->
+
+  <CAN_Cookgrilledsandwich.label>Cook two cannibal cheeseburgers</CAN_Cookgrilledsandwich.label>
+  <CAN_Cookgrilledsandwich.description>A sandwich made of bread, human meat, and cheese. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</CAN_Cookgrilledsandwich.description>
+  <CAN_Cookgrilledsandwich.jobString>Grilling cannibal sandwich.</CAN_Cookgrilledsandwich.jobString>
+
+
+  <!-- Pemmican -->
+
+  <CAN_MakeCannibalPemmican.label>Make cannibal pemmican</CAN_MakeCannibalPemmican.label>
+  <CAN_MakeCannibalPemmican.description>Make cannibal pemmican, a preserved combination of human meat and organic food. It doesn't taste amazing, but lasts a year without refrigeration.</CAN_MakeCannibalPemmican.description>
+  <CAN_MakeCannibalPemmican.jobString>Making pemmican.</CAN_MakeCannibalPemmican.jobString>
+
+  <CAN_MakeCannibalPemmicanCampfire.label>Make cannibal pemmican</CAN_MakeCannibalPemmicanCampfire.label>
+  <CAN_MakeCannibalPemmicanCampfire.description>Make cannibal pemmican, a preserved combination of human meat and organic food. It doesn't taste amazing, but lasts a year without refrigeration.</CAN_MakeCannibalPemmicanCampfire.description>
+  <CAN_MakeCannibalPemmicanCampfire.jobString>Making pemmican.</CAN_MakeCannibalPemmicanCampfire.jobString>
+
+
+  <!-- Simple Meal -->
+
+  <CAN_CookCannibalMealSimple.label>cook simple cannibal meal</CAN_CookCannibalMealSimple.label>
+  <CAN_CookCannibalMealSimple.description>Cooks a straightforward meal from human meat.</CAN_CookCannibalMealSimple.description>
+  <CAN_CookCannibalMealSimple.jobString>Cooking simple meal.</CAN_CookCannibalMealSimple.jobString>
+
+  <CAN_CookCannibalMealSimpleCampfire.label>cook simple cannibal meal</CAN_CookCannibalMealSimpleCampfire.label>
+  <CAN_CookCannibalMealSimpleCampfire.description>Cooks a straightforward meal from human meat.</CAN_CookCannibalMealSimpleCampfire.description>
+  <CAN_CookCannibalMealSimpleCampfire.jobString>Cooking simple meal.</CAN_CookCannibalMealSimpleCampfire.jobString>
+
+
+  <!-- Fine Meal -->
+
+  <CAN_CookCannibalMealFine.label>cook fine cannibal meal</CAN_CookCannibalMealFine.label>
+  <CAN_CookCannibalMealFine.description>Cooks a somewhat complex cannibal meal from a combination of human meat and organic ingredients.</CAN_CookCannibalMealFine.description>
+  <CAN_CookCannibalMealFine.jobString>Cooking fine meal.</CAN_CookCannibalMealFine.jobString>
+
+
+  <!-- Lavish Meal -->
+
+  <CAN_CookCannibalMealLavish.label>cook lavish cannibal meal</CAN_CookCannibalMealLavish.label>
+  <CAN_CookCannibalMealLavish.description>Cooks a very complex cannibal meal from a combination of human meat and organic ingredients. Much of the ingredients are wasted.</CAN_CookCannibalMealLavish.description>
+  <CAN_CookCannibalMealLavish.jobString>Cooking lavish meal.</CAN_CookCannibalMealLavish.jobString>
+
+
+  <!-- Survival Meal -->
+
+  <CAN_CookCannibalMealSurvival.label>cook packaged survival cannibal meal</CAN_CookCannibalMealSurvival.label>
+  <CAN_CookCannibalMealSurvival.description>Cooks a packaged survival cannibal meal from a combination of human meat and organic ingredients. Much of the ingredients are wasted.</CAN_CookCannibalMealSurvival.description>
+  <CAN_CookCannibalMealSurvival.jobString>Cooking survival meal.</CAN_CookCannibalMealSurvival.jobString>
+
+
+</LanguageData>
