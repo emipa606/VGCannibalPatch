@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-
-	<name>Cosmic Horrors VGP Meal Patch</name>
-	<packageId>Mlie.CosmicHorrorVGPPath</packageId>
+	<name>Cannibal Meals (VGP required)</name>
+	<packageId>Mlie.CannibalMeals.VGP</packageId>
 	<author>Mlie</author>
-	<url>https://github.com/emipa606/CosmicHorrorVGPPath</url>
+	<url>https://github.com/emipa606/VGCannibalPatch</url>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
@@ -27,17 +26,17 @@
 		<li>dismarzero.VGP.VGPGardenGourmet</li>
 		<li>dismarzero.VGP.VGPVegetableGarden</li>
 	</loadAfter>
-	<description>Adds strange versions of all Vegetable Garden Project-meals.
+	<description>Adds cannibal versions of all base and Vegetable Garden Project-meals.
 
 General	
- • Add these recipes/meals: Pemmican, Packaged Survival Meal, Stir-Fry, Stew, Pizza, Salted Meat, Cheeseburger, Tacos, Meat Pie, Kabobs, Grilled Steak
- • Has added texture on the original textures to indicate strange-version.
+ • Add these recipes/meals: Pemmican, Kibble, Simple Meal, Fine Meal, Lavish Meal, Packaged Survival Meal, Stir-Fry, Stew, Pizza, Salted Meat, Cheeseburger, Tacos, Meat Pie, Kabobs, Grilled Steak
+ • Has added texture on the original textures to indicate cannibal-version.
  • Stats and nutritions are the same as the original meals.
- • Adds a Strange meal category for sorting.
+ • Adds a Cannibal meal category for sorting.
 
 Compatibilities
  • Compatible with existent saves and other mods.
- • Requires Vegetable Garden, VG Gourmet and of course Cosmic Horrors
+ • Requires Vegetable Garden + VG Gourmet
 
 </description>
 
