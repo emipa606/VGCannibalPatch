@@ -8,6 +8,24 @@
 		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>dismarzero.VGP.VGPGardenGourmet</packageId>
+			<displayName>VGP Garden Gourmet</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2007062982</steamWorkshopUrl>
+			<downloadUrl>https://ludeon.com/forums/index.php?topic=36926.msg378130#msg378130</downloadUrl>
+		</li>
+		<li>
+			<packageId>dismarzero.VGP.VGPGardenFabrics</packageId>
+			<displayName>VGP Garden Fabrics</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2007062162</steamWorkshopUrl>
+			<downloadUrl>https://ludeon.com/forums/index.php?topic=36926.msg378134#msg378134</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>dismarzero.VGP.VGPGardenGourmet</li>
+		<li>dismarzero.VGP.VGPGardenFabrics</li>
+	</loadAfter>
 	<description>Adds cannibal versions of all base and Vegetable Garden Project-meals.
 
 General	
