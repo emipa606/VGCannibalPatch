@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Cannibal Meals (VGP required)</name>
-	<packageId>Mlie.CannibalMeals.VGP</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/VGCannibalPatch</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies>
-		<li>
-			<packageId>dismarzero.VGP.VGPGardenGourmet</packageId>
-			<displayName>VGP Garden Gourmet</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2007062982</steamWorkshopUrl>
-			<downloadUrl>https://ludeon.com/forums/index.php?topic=36926.msg378130#msg378130</downloadUrl>
-		</li>
-		<li>
-			<packageId>dismarzero.VGP.VGPVegetableGarden</packageId>
-			<displayName>VGP Vegetable Garden</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2007061826</steamWorkshopUrl>
-			<downloadUrl>https://ludeon.com/forums/index.php?topic=36926.0</downloadUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		<li>dismarzero.VGP.VGPGardenGourmet</li>
-		<li>dismarzero.VGP.VGPVegetableGarden</li>
-	</loadAfter>
-	<description>Adds cannibal versions of all base and Vegetable Garden Project-meals.
+  <name>Cannibal Meals (VGP required)</name>
+  <packageId>Mlie.CannibalMeals.VGP</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/VGCannibalPatch</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>dismarzero.VGP.VGPGardenGourmet</packageId>
+      <displayName>VGP Garden Gourmet</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2007062982</steamWorkshopUrl>
+      <downloadUrl>https://ludeon.com/forums/index.php?topic=36926.msg378130#msg378130</downloadUrl>
+    </li>
+    <li>
+      <packageId>dismarzero.VGP.VGPVegetableGarden</packageId>
+      <displayName>VGP Vegetable Garden</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2007061826</steamWorkshopUrl>
+      <downloadUrl>https://ludeon.com/forums/index.php?topic=36926.0</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>dismarzero.VGP.VGPGardenGourmet</li>
+    <li>dismarzero.VGP.VGPVegetableGarden</li>
+  </loadAfter>
+  <description>Adds cannibal versions of all base and Vegetable Garden Project-meals.
 
 General	
- • Add these recipes/meals: Pemmican, Kibble, Simple Meal, Fine Meal, Lavish Meal, Packaged Survival Meal, Stir-Fry, Stew, Pizza, Salted Meat, Cheeseburger, Tacos, Meat Pie, Kabobs, Grilled Steak
- • Has added texture on the original textures to indicate cannibal-version.
- • Stats and nutritions are the same as the original meals.
- • Adds a Cannibal meal category for sorting.
+ � Add these recipes/meals: Pemmican, Kibble, Simple Meal, Fine Meal, Lavish Meal, Packaged Survival Meal, Stir-Fry, Stew, Pizza, Salted Meat, Cheeseburger, Tacos, Meat Pie, Kabobs, Grilled Steak
+ � Has added texture on the original textures to indicate cannibal-version.
+ � Stats and nutritions are the same as the original meals.
+ � Adds a Cannibal meal category for sorting.
 
 Compatibilities
- • Compatible with existent saves and other mods.
- • Requires Vegetable Garden + VG Gourmet
+ � Compatible with existent saves and other mods.
+ � Requires Vegetable Garden + VG Gourmet
 
 </description>
-
 </ModMetaData>

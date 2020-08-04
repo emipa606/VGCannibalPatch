@@ -75,6 +75,13 @@
   <CAN_MakeCannibalPemmicanCampfire.jobString>Making pemmican.</CAN_MakeCannibalPemmicanCampfire.jobString>
 
 
+  <!-- Kibble -->
+
+  <CAN_MakeCannibalKibble.label>make cannibal kibble</CAN_MakeCannibalKibble.label>
+  <CAN_MakeCannibalKibble.description>Make animal kibble by combining raw human and plants.</CAN_MakeCannibalKibble.description>
+  <CAN_MakeCannibalKibble.jobString>Making cannibal kibble.</CAN_MakeCannibalKibble.jobString>
+
+
   <!-- Simple Meal -->
 
   <CAN_CookCannibalMealSimple.label>cook simple cannibal meal</CAN_CookCannibalMealSimple.label>

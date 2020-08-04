@@ -61,6 +61,12 @@
   <CAN_CannibalPemmican.description>A preserved mashed mixture of human fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</CAN_CannibalPemmican.description>
 
 
+  <!-- Kibble -->
+
+  <CAN_CannibalKibble.label>cannibal kibble</CAN_CannibalKibble.label>
+  <CAN_CannibalKibble.description>Animal feed made from human and plant sources. Humans can eat it, but they really, really don't like it.</CAN_CannibalKibble.description>
+
+
   <!-- Survival Meal -->
 
   <CAN_CannibalMealSurvivalPack.label>packaged survival cannibal meal</CAN_CannibalMealSurvivalPack.label>
