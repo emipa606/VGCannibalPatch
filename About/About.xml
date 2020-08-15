@@ -11,21 +11,21 @@
   </supportedVersions>
   <modDependencies>
     <li>
-      <packageId>dismarzero.VGP.VGPGardenGourmet</packageId>
-      <displayName>VGP Garden Gourmet</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2007062982</steamWorkshopUrl>
-      <downloadUrl>https://ludeon.com/forums/index.php?topic=36926.msg378130#msg378130</downloadUrl>
-    </li>
-    <li>
       <packageId>dismarzero.VGP.VGPVegetableGarden</packageId>
       <displayName>VGP Vegetable Garden</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/2007061826</steamWorkshopUrl>
       <downloadUrl>https://ludeon.com/forums/index.php?topic=36926.0</downloadUrl>
     </li>
+    <li>
+      <packageId>dismarzero.VGP.VGPGardenGourmet</packageId>
+      <displayName>VGP Garden Gourmet</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2007062982</steamWorkshopUrl>
+      <downloadUrl>https://ludeon.com/forums/index.php?topic=36926.msg378130#msg378130</downloadUrl>
+    </li>
   </modDependencies>
   <loadAfter>
-    <li>dismarzero.VGP.VGPGardenGourmet</li>
     <li>dismarzero.VGP.VGPVegetableGarden</li>
+    <li>dismarzero.VGP.VGPGardenGourmet</li>
   </loadAfter>
   <description>Adds cannibal versions of all base and Vegetable Garden Project-meals.
 
