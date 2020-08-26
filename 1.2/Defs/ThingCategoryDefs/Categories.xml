@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Defs>
-  <ThingCategoryDef>
-    <defName>CannibalMeals</defName>
-    <label>Cannibal Meals</label>
-    <parent>FoodMeals</parent>
-    <iconPath>CAN_Category</iconPath>
-  </ThingCategoryDef>
-</Defs>

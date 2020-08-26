@@ -4,6 +4,6 @@
     <defName>CannibalMeals</defName>
     <label>Cannibal Meals</label>
     <parent>FoodMeals</parent>
-    <iconPath>CAN_Category</iconPath>
+    <iconPath>VGP/CAN_Category</iconPath>
   </ThingCategoryDef>
 </Defs>

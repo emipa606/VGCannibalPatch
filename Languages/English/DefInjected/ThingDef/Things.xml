@@ -1,94 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Cheeseburger -->
-
-  <CAN_grilledmeat.label>Cannibal Cheese Burger</CAN_grilledmeat.label>
-  <CAN_grilledmeat.description>Two slices of bread with grilled human meat and cheese melt. \n\nFood Effects: Metabolism.</CAN_grilledmeat.description>
-
-
+  <!--<CAN_grilledmeat.label>Cannibal Cheese Burger</CAN_grilledmeat.label>-->
+  <!--<CAN_grilledmeat.description>Two slices of bread with grilled human meat and cheese melt. \n\nFood Effects: Metabolism.</CAN_grilledmeat.description>-->
   <!-- Pizza -->
-
-  <CAN_pizza.label>Cannibal pizza</CAN_pizza.label>
-  <CAN_pizza.description>Cannibalpizza in 30 minutes or less! \n\nFood Effects: Consciousness and Metabolism.</CAN_pizza.description>
-
-
+  <!--<CAN_pizza.label>Cannibal pizza</CAN_pizza.label>-->
+  <!--<CAN_pizza.description>Cannibalpizza in 30 minutes or less! \n\nFood Effects: Consciousness and Metabolism.</CAN_pizza.description>-->
   <!-- Tacos -->
-
-  <CAN_Tacos.label>Cannibal Tacos</CAN_Tacos.label>
-  <CAN_Tacos.description>Human Meat and Cheese in a Corn shell. \n\nFood Effects: Manipulation and Metabolism.</CAN_Tacos.description>
-
-
+  <!--<CAN_Tacos.label>Cannibal Tacos</CAN_Tacos.label>-->
+  <!--<CAN_Tacos.description>Human Meat and Cheese in a Corn shell. \n\nFood Effects: Manipulation and Metabolism.</CAN_Tacos.description>-->
   <!-- Grilled Steak -->
-
-  <CAN_Grilledsteak.label>Grilled Human Steak</CAN_Grilledsteak.label>
-  <CAN_Grilledsteak.description>Human meat that has been cooked over a grill.</CAN_Grilledsteak.description>
-
-
+  <!--<CAN_Grilledsteak.label>Grilled Human Steak</CAN_Grilledsteak.label>-->
+  <!--<CAN_Grilledsteak.description>Human meat that has been cooked over a grill.</CAN_Grilledsteak.description>-->
   <!-- Kabob -->
-
-  <CAN_Kabob.label>Grilled Cannibal Kabob</CAN_Kabob.label>
-  <CAN_Kabob.description>Human meats and Vegetables skewered on a stick and grilled to perfection.</CAN_Kabob.description>
-
-
+  <!--<CAN_Kabob.label>Grilled Cannibal Kabob</CAN_Kabob.label>-->
+  <!--<CAN_Kabob.description>Human meats and Vegetables skewered on a stick and grilled to perfection.</CAN_Kabob.description>-->
   <!-- Meat Pie -->
-
-  <CAN_meatpie.label>Human meat pie</CAN_meatpie.label>
-  <CAN_meatpie.description>A simple baked pie with a filling of human meat.</CAN_meatpie.description>
-
-
+  <!--<CAN_meatpie.label>Human meat pie</CAN_meatpie.label>-->
+  <!--<CAN_meatpie.description>A simple baked pie with a filling of human meat.</CAN_meatpie.description>-->
   <!-- Stew -->
-
-  <CAN_bowlstew.label>Bowl of cannibal stew</CAN_bowlstew.label>
-  <CAN_bowlstew.description>A bowl of slow cooking cannibal stew. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</CAN_bowlstew.description>
-
-
+  <!--<CAN_bowlstew.label>Bowl of cannibal stew</CAN_bowlstew.label>-->
+  <!--<CAN_bowlstew.description>A bowl of slow cooking cannibal stew. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</CAN_bowlstew.description>-->
   <!-- Stirfry -->
-
-  <CAN_stirfry.label>Cannibal stirfry</CAN_stirfry.label>
-  <CAN_stirfry.description>Cooking technique in which ingredients are fried in a small amount of very hot oil. \n\nFood Effects: Manipulation and Blood Filtration.</CAN_stirfry.description>
-
-
+  <!--<CAN_stirfry.label>Cannibal stirfry</CAN_stirfry.label>-->
+  <!--<CAN_stirfry.description>Cooking technique in which ingredients are fried in a small amount of very hot oil. \n\nFood Effects: Manipulation and Blood Filtration.</CAN_stirfry.description>-->
   <!-- Salted Meat -->
-
-  <CAN_SaltedMeat.label>Salted human meat</CAN_SaltedMeat.label>
-  <CAN_SaltedMeat.description>Human meat that has been cured with salt.</CAN_SaltedMeat.description>
-
-
+  <!--<CAN_SaltedMeat.label>Salted human meat</CAN_SaltedMeat.label>-->
+  <!--<CAN_SaltedMeat.description>Human meat that has been cured with salt.</CAN_SaltedMeat.description>-->
   <!-- Pemmican -->
-
-  <CAN_CannibalPemmican.label>cannibal pemmican</CAN_CannibalPemmican.label>
-  <CAN_CannibalPemmican.description>A preserved mashed mixture of human fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</CAN_CannibalPemmican.description>
-
-
+  <!--<CAN_CannibalPemmican.label>cannibal pemmican</CAN_CannibalPemmican.label>-->
+  <!--<CAN_CannibalPemmican.description>A preserved mashed mixture of human fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</CAN_CannibalPemmican.description>-->
   <!-- Kibble -->
-
-  <CAN_CannibalKibble.label>cannibal kibble</CAN_CannibalKibble.label>
-  <CAN_CannibalKibble.description>Animal feed made from human and plant sources. Humans can eat it, but they really, really don't like it.</CAN_CannibalKibble.description>
-
-
+  <!--<CAN_CannibalKibble.label>cannibal kibble</CAN_CannibalKibble.label>-->
+  <!--<CAN_CannibalKibble.description>Animal feed made from human and plant sources. Humans can eat it, but they really, really don't like it.</CAN_CannibalKibble.description>-->
   <!-- Survival Meal -->
-
-  <CAN_CannibalMealSurvivalPack.label>packaged survival cannibal meal</CAN_CannibalMealSurvivalPack.label>
-  <CAN_CannibalMealSurvivalPack.description>A high-quality cannibal packaged meal, manufactured for use in survival situations.</CAN_CannibalMealSurvivalPack.description>
-
-
+  <!--<CAN_CannibalMealSurvivalPack.label>packaged survival cannibal meal</CAN_CannibalMealSurvivalPack.label>-->
+  <!--<CAN_CannibalMealSurvivalPack.description>A high-quality cannibal packaged meal, manufactured for use in survival situations.</CAN_CannibalMealSurvivalPack.description>-->
   <!-- Simple Meal -->
-
-  <CAN_CannibalMealSimple.label>simple cannibal meal</CAN_CannibalMealSimple.label>
-  <CAN_CannibalMealSimple.description>A simple meal quickly cooked from human meat and a few ingredients.</CAN_CannibalMealSimple.description>
-
-
+  <!--<CAN_CannibalMealSimple.label>simple cannibal meal</CAN_CannibalMealSimple.label>-->
+  <!--<CAN_CannibalMealSimple.description>A simple meal quickly cooked from human meat and a few ingredients.</CAN_CannibalMealSimple.description>-->
   <!-- Fine Meal -->
-
-  <CAN_CannibalMealFine.label>fine cannibal meal</CAN_CannibalMealFine.label>
-  <CAN_CannibalMealFine.description>A complex dish assembled with care from human meat and a wide selection of ingredients.</CAN_CannibalMealFine.description>
-
-
+  <!--<CAN_CannibalMealFine.label>fine cannibal meal</CAN_CannibalMealFine.label>-->
+  <!--<CAN_CannibalMealFine.description>A complex dish assembled with care from human meat and a wide selection of ingredients.</CAN_CannibalMealFine.description>-->
   <!-- Lavish Meal -->
-
-  <CAN_CannibalMealLavish.label>lavish cannibal meal</CAN_CannibalMealLavish.label>
-  <CAN_CannibalMealLavish.description>A masterpiece of the cannibal culinary arts, this meal nourishes the body, mind, and soul.</CAN_CannibalMealLavish.description>
-
+  <!--<CAN_CannibalMealLavish.label>lavish cannibal meal</CAN_CannibalMealLavish.label>-->
+  <!--<CAN_CannibalMealLavish.description>A masterpiece of the cannibal culinary arts, this meal nourishes the body, mind, and soul.</CAN_CannibalMealLavish.description>-->
 
 </LanguageData>

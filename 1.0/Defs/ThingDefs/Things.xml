@@ -6,7 +6,7 @@
     <label>Cannibal Cheese Burger</label>
     <description>Two slices of bread with grilled human meat and cheese melt. \n\nFood Effects: Metabolism.</description>
     <graphicData>
-      <texPath>CAN_grilledmeat</texPath>
+      <texPath>VGP/CAN_grilledmeat</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -36,7 +36,7 @@
     <label>Cannibal pizza</label>
     <description>Cannibalpizza in 30 minutes or less! \n\nFood Effects: Consciousness and Metabolism.</description>
     <graphicData>
-      <texPath>CAN_pizza</texPath>
+      <texPath>VGP/CAN_pizza</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -67,7 +67,7 @@
     <label>Cannibal Tacos</label>
     <description>Human Meat and Cheese in a Corn shell. \n\nFood Effects: Manipulation and Metabolism.</description>
     <graphicData>
-      <texPath>CAN_Tacos</texPath>
+      <texPath>VGP/CAN_Tacos</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -99,7 +99,7 @@
     <label>Grilled Human Steak</label>
     <description>Human meat that has been cooked over a grill.</description>
     <graphicData>
-      <texPath>CAN_Grilledsteak</texPath>
+      <texPath>VGP/CAN_Grilledsteak</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -123,7 +123,7 @@
     <label>Grilled Cannibal Kabob</label>
     <description>Human meats and Vegetables skewered on a stick and grilled to perfection.</description>
     <graphicData>
-      <texPath>CAN_Kabob</texPath>
+      <texPath>VGP/CAN_Kabob</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -147,7 +147,7 @@
     <label>Human meat pie</label>
     <description>A simple baked pie with a filling of human meat.</description>
     <graphicData>
-      <texPath>CAN_meatpie</texPath>
+      <texPath>VGP/CAN_meatpie</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -171,7 +171,7 @@
     <label>Bowl of cannibal stew</label>
     <description>A bowl of slow cooking cannibal stew. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</description>
     <graphicData>
-      <texPath>CAN_bowlstew</texPath>
+      <texPath>VGP/CAN_bowlstew</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -202,7 +202,7 @@
     <label>Cannibal stirfry</label>
     <description>Cooking technique in which ingredients are fried in a small amount of very hot oil. \n\nFood Effects: Manipulation and Blood Filtration.</description>
     <graphicData>
-      <texPath>CAN_stirfry</texPath>
+      <texPath>VGP/CAN_stirfry</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -233,7 +233,7 @@
     <label>Salted human meat</label>
     <description>Human meat that has been cured with salt.</description>
     <graphicData>
-      <texPath>CAN_SaltedMeat</texPath>
+      <texPath>VGP/CAN_SaltedMeat</texPath>
     </graphicData>
     <thingCategories>
       <li>MeatRaw</li>
@@ -267,7 +267,7 @@
     <thingClass>ThingWithComps</thingClass>
     <description>A preserved mashed mixture of human fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.</description>
     <graphicData>
-      <texPath>CAN_CannibalPemmican</texPath>
+      <texPath>VGP/CAN_CannibalPemmican</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
@@ -307,7 +307,7 @@
       <li>Foods</li>
     </thingCategories>
     <graphicData>
-      <texPath>CAN_CannibalKibble</texPath>
+      <texPath>VGP/CAN_CannibalKibble</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <socialPropernessMatters>true</socialPropernessMatters>
@@ -336,7 +336,7 @@
     <label>packaged survival cannibal meal</label>
     <description>A high-quality cannibal packaged meal, manufactured for use in survival situations.</description>
     <graphicData>
-      <texPath>CAN_CannibalSurvivalPack</texPath>
+      <texPath>VGP/CAN_CannibalSurvivalPack</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -364,7 +364,7 @@
     <label>simple cannibal meal</label>
     <description>A simple meal quickly cooked from human meat and a few ingredients.</description>
     <graphicData>
-      <texPath>CAN_CannibalSimple</texPath>
+      <texPath>VGP/CAN_CannibalSimple</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -388,7 +388,7 @@
     <label>fine cannibal meal</label>
     <description>A complex dish assembled with care from human meat and a wide selection of ingredients.</description>
     <graphicData>
-      <texPath>CAN_CannibalFine</texPath>
+      <texPath>VGP/CAN_CannibalFine</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
@@ -413,7 +413,7 @@
     <label>lavish cannibal meal</label>
     <description>A masterpiece of the cannibal culinary arts, this meal nourishes the body, mind, and soul.</description>
     <graphicData>
-      <texPath>CAN_CannibalLavish</texPath>
+      <texPath>VGP/CAN_CannibalLavish</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
