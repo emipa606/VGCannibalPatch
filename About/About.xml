@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Cannibal Meals (VGP required)</name>
   <packageId>Mlie.CannibalMeals.VGP</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -27,20 +28,52 @@
     <li>dismarzero.VGP.VGPVegetableGarden</li>
     <li>dismarzero.VGP.VGPGardenGourmet</li>
   </loadAfter>
-  <description>Adds cannibal versions of all base and Vegetable Garden Project-meals.
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  
+Adds cannibal versions of all base and Vegetable Garden Project-meals.
 
-General	
- � Add these recipes/meals: Pemmican, Kibble, Simple Meal, Fine Meal, Lavish Meal, Packaged Survival Meal, Stir-Fry, Stew, Pizza, Salted Meat, Cheeseburger, Tacos, Meat Pie, Kabobs, Grilled Steak
- � Has added texture on the original textures to indicate cannibal-version.
- � Stats and nutritions are the same as the original meals.
- � Adds a Cannibal meal category for sorting.
+General
+[list]
+[*]Add these recipes/meals: Stir-Fry, Stew, Pizza, Salted Meat, Cheeseburger, Tacos, Meat Pie, Kabobs, Grilled Steak
+[*]Has added texture on the original textures to indicate cannibal-version.
+[*]Stats and nutritions are the same as the original meals.
+[*]Adds a Cannibal meal category for sorting.
+[/list]
 
 Compatibilities
- � Compatible with existent saves and other mods.
- � Requires Vegetable Garden + VG Gourmet
+[list]
+[*]Compatible with existing saves and other mods.
+[*]Requires Vegetable Garden Project + VGP Gourmet and should be loaded after those two
+[/list]
 
-Removed the vanilla cannibal meals from this mod as they are better handled in the separate mod:
+ For helping with translations, please see the github-link above.
+
+If dismarzero (VPG owner) wants to publish this as a separate VGP I&apos;ll gladly take this down and send over the files.
+This is originally an expansion of Tremeloe&apos;s Cook Cannibal Meal (IndividualStack) 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1297883744 that has not been updated to 1.0 yet. This mod also adds Tremeloe&apos;s meals to the VGP Food Prep-table.
+
+[h1]Update[/h1]
+To simplify my mod-updating and improve this mod I have chosen to remove the cannibal vanilla-meals in this mod. This mod was primarly intended as a patch for VGP and since I already have a mod that adds cannibal versions of vanilla meals that also has support for other mods structures and races I think its better if these two mods can be used side by side instead.
+If you have vanilla-type cannibal meals in your save that you would like to keep, please subscribe to my other mod and reload your save as it uses the same meal-definitions as this mod used.
 Cannibal and Insect Meals
 https://steamcommunity.com/sharedfiles/filedetails/?id=1558455017
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/VGCannibalPatch][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
 </description>
 </ModMetaData>
+
