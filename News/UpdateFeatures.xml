@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="VGCannibalPatch_UpdateFeatureBase">
     <modNameReadable>VGCannibalPatch</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1537104826</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="VGCannibalPatch_UpdateFeatureBase">
     <defName>VGCannibalPatch_1_0_12_0</defName>
     <assemblyVersion>1.0.12.0</assemblyVersion>
     <content>To simplify my mod-updating and improve this mod I have chosen to remove the cannibal vanilla-meals in this mod. This mod was primarly intended as a patch for VGP and since I already have a mod that adds cannibal versions of vanilla meals that also has support for other mods structures and races I think its better if these two mods can be used side by side instead.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Cannibal Meals (VGP required)</name>
   <packageId>Mlie.CannibalMeals.VGP</packageId>
@@ -28,9 +28,9 @@
     <li>dismarzero.VGP.VGPVegetableGarden</li>
     <li>dismarzero.VGP.VGPGardenGourmet</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
   
-Adds cannibal versions of all base and Vegetable Garden Project-meals.
+Adds cannibal versions of [strike]all base and[/strike] Vegetable Garden Project-meals.
 
 General
 [list]
@@ -48,9 +48,9 @@ Compatibilities
 
  For helping with translations, please see the github-link above.
 
-If dismarzero (VPG owner) wants to publish this as a separate VGP I&apos;ll gladly take this down and send over the files.
-This is originally an expansion of Tremeloe&apos;s Cook Cannibal Meal (IndividualStack) 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1297883744 that has not been updated to 1.0 yet. This mod also adds Tremeloe&apos;s meals to the VGP Food Prep-table.
+If dismarzero (VPG owner) wants to publish this as a separate VGP I'll gladly take this down and send over the files.
+This is originally an expansion of Tremeloe's Cook Cannibal Meal (IndividualStack) 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1297883744 that has not been updated to 1.0 yet. This mod also adds Tremeloe's meals to the VGP Food Prep-table.
 
 [h1]Update[/h1]
 To simplify my mod-updating and improve this mod I have chosen to remove the cannibal vanilla-meals in this mod. This mod was primarly intended as a patch for VGP and since I already have a mod that adds cannibal versions of vanilla meals that also has support for other mods structures and races I think its better if these two mods can be used side by side instead.
@@ -65,7 +65,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1558455017
     [/tr]
 [/table]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -76,4 +76,3 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1558455017
 [/list]
 </description>
 </ModMetaData>
-

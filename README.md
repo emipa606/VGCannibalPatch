@@ -1,9 +1,9 @@
 # VGCannibalPatch
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
   
-Adds cannibal versions of all base and Vegetable Garden Project-meals.
+Adds cannibal versions of [strike]all base and[/strike] Vegetable Garden Project-meals.
 
 General
 
@@ -25,9 +25,9 @@ Compatibilities
 
  For helping with translations, please see the github-link above.
 
-If dismarzero (VPG owner) wants to publish this as a separate VGP I&apos;ll gladly take this down and send over the files.
-This is originally an expansion of Tremeloe&apos;s Cook Cannibal Meal (IndividualStack) 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1297883744 that has not been updated to 1.0 yet. This mod also adds Tremeloe&apos;s meals to the VGP Food Prep-table.
+If dismarzero (VPG owner) wants to publish this as a separate VGP I'll gladly take this down and send over the files.
+This is originally an expansion of Tremeloe's Cook Cannibal Meal (IndividualStack) 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1297883744 that has not been updated to 1.0 yet. This mod also adds Tremeloe's meals to the VGP Food Prep-table.
 
 # Update
 
@@ -36,16 +36,7 @@ If you have vanilla-type cannibal meals in your save that you would like to keep
 Cannibal and Insect Meals
 https://steamcommunity.com/sharedfiles/filedetails/?id=1558455017
 
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/VGCannibalPatch]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
-
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
