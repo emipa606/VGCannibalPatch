@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Cheeseburger -->
+  <ThingDef ParentName="MealRottable">
+    <defName>CAN_grilledmeat</defName>
+    <label>Cannibal Cheese Burger</label>
+    <description>Two slices of bread with grilled human meat and cheese melt. \n\nFood Effects: Metabolism.</description>
+    <graphicData>
+      <texPath>VGP/CAN_grilledmeat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <Nutrition>0.90</Nutrition>
+      <MarketValue>25</MarketValue>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedGardenMeal</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Pizza -->
+  <ThingDef ParentName="MealRottable">
+    <defName>CAN_pizza</defName>
+    <label>Cannibal pizza</label>
+    <description>Cannibalpizza in 30 minutes or less! \n\nFood Effects: Consciousness and Metabolism.</description>
+    <graphicData>
+      <texPath>VGP/CAN_pizza</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>25</MarketValue>
+      <Nutrition>1.00</Nutrition>
+      <WorkToMake>500</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <tasteThought>AteLavishMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedBakedGood</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Tacos -->
+  <ThingDef ParentName="MealRottable">
+    <defName>CAN_Tacos</defName>
+    <label>Cannibal Tacos</label>
+    <description>Human Meat and Cheese in a Corn shell. \n\nFood Effects: Manipulation and Metabolism.</description>
+    <graphicData>
+      <texPath>VGP/CAN_Tacos</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <Nutrition>0.9</Nutrition>
+      <MarketValue>15</MarketValue>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <tasteThought>AteFineMeal</tasteThought>
+      <joy>0.2</joy>
+      <joyKind>Gluttonous</joyKind>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedLavishGardenMeal</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Grilled Steak -->
+  <ThingDef ParentName="MealRottable">
+    <defName>CAN_Grilledsteak</defName>
+    <label>Grilled Human Steak</label>
+    <description>Human meat that has been cooked over a grill.</description>
+    <graphicData>
+      <texPath>VGP/CAN_Grilledsteak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <Nutrition>0.9</Nutrition>
+      <MarketValue>18</MarketValue>
+      <WorkToMake>1000</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Kabob -->
+  <ThingDef ParentName="MealRottable">
+    <defName>CAN_Kabob</defName>
+    <label>Grilled Cannibal Kabob</label>
+    <description>Human meats and Vegetables skewered on a stick and grilled to perfection.</description>
+    <graphicData>
+      <texPath>VGP/CAN_Kabob</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>18</MarketValue>
+      <Nutrition>0.9</Nutrition>
+      <WorkToMake>1000</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedGardenMeal</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Meat Pie -->
+  <ThingDef ParentName="MealRottable">
+    <defName>CAN_meatpie</defName>
+    <label>Human meat pie</label>
+    <description>A simple baked pie with a filling of human meat.</description>
+    <graphicData>
+      <texPath>VGP/CAN_meatpie</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <Nutrition>0.70</Nutrition>
+      <MarketValue>12</MarketValue>
+      <WorkToMake>1000</WorkToMake>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedSimpleGarden</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Stew -->
+  <ThingDef ParentName="MealBase">
+    <defName>CAN_bowlstew</defName>
+    <label>Bowl of cannibal stew</label>
+    <description>A bowl of slow cooking cannibal stew. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</description>
+    <graphicData>
+      <texPath>VGP/CAN_bowlstew</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>25</MarketValue>
+      <WorkToMake>1500</WorkToMake>
+      <Nutrition>1.00</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <tasteThought>AteLavishMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedStew</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <!-- Stirfry -->
+  <ThingDef ParentName="MealBase">
+    <defName>CAN_stirfry</defName>
+    <label>Cannibal stirfry</label>
+    <description>Cooking technique in which ingredients are fried in a small amount of very hot oil. \n\nFood Effects: Manipulation and Blood Filtration.</description>
+    <graphicData>
+      <texPath>VGP/CAN_stirfry</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <DeteriorationRate>10</DeteriorationRate>
+      <MarketValue>25</MarketValue>
+      <WorkToMake>10000</WorkToMake>
+      <Nutrition>0.90</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <tasteThought>AteFineMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>HedStirfry</hediffDef>
+          <severity>0.25</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <thingCategories>
+      <li>CannibalMeals</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <!-- Salted Meat -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>CAN_SaltedMeat</defName>
+    <label>Salted human meat</label>
+    <description>Human meat that has been cured with salt.</description>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <graphicData>
+      <texPath>VGP/CAN_SaltedMeat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>MeatRaw</li>
+    </thingCategories>
+    <tickerType>Rare</tickerType>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>5</MarketValue>
+      <Nutrition>0.05</Nutrition>
+      <Mass>0.025</Mass>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>5</DeteriorationRate>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>80</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <foodType>Meat</foodType>
+      <maxNumToIngestAtOnce>10</maxNumToIngestAtOnce>
+      <optimalityOffsetHumanlikes>-10</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-5</optimalityOffsetFeedingAnimals>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <preferability>MealAwful</preferability>
+      <tasteThought>
+      </tasteThought>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+</Defs>

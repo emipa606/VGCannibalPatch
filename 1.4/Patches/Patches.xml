@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <!-- check for ThingCategoryDef and if none found, add one -->
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/ThingCategoryDef[defName = "CannibalMeals"]</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs</xpath>
+        <value>
+          <ThingCategoryDef>
+            <defName>CannibalMeals</defName>
+            <label>Cannibal Meals</label>
+            <parent>FoodMeals</parent>
+            <iconPath>VGP/CAN_Category</iconPath>
+          </ThingCategoryDef>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/ThingDef[defName = "CAN_CannibalMealSimple" or defName = "CAN_CannibalMealSurvivalPack" or defName = "CAN_CannibalMealFine" or defName = "CAN_CannibalMealLavish"]</xpath>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName = "CAN_CannibalMealSimple" or defName = "CAN_CannibalMealSurvivalPack" or defName = "CAN_CannibalMealFine" or defName = "CAN_CannibalMealLavish"]</xpath>
+        <value>
+          <thingCategories Inherit="False">
+            <li>CannibalMeals</li>
+          </thingCategories>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
