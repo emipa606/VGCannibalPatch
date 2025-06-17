@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bake two human meat pies -->
+  <CAN_BakeMeatPie.label>Bake two human meat pies</CAN_BakeMeatPie.label>
+  <!-- EN: Bake a tasty cannibal pie. \n\nMakes 2 pies. -->
+  <CAN_BakeMeatPie.description>Bake a tasty cannibal pie. 
+
+Makes 2 pies.</CAN_BakeMeatPie.description>
+  <!-- EN: Baking cannibal pie. -->
+  <CAN_BakeMeatPie.jobString>Baking cannibal pie.</CAN_BakeMeatPie.jobString>
+  <!-- EN: Bake three cannibal pizzas -->
+  <CAN_Bakepizza.label>Bake three cannibal pizzas</CAN_Bakepizza.label>
+  <!-- EN: Bake cannibal pizza. \n\nMakes 3 servings. \n\nFood Effects: Consciousness and Metabolism. -->
+  <CAN_Bakepizza.description>Bake cannibal pizza. 
+
+Makes 3 servings. 
+
+Food Effects: Consciousness and Metabolism.</CAN_Bakepizza.description>
+  <!-- EN: Baking cannibal pizza. -->
+  <CAN_Bakepizza.jobString>Baking cannibal pizza.</CAN_Bakepizza.jobString>
+  <!-- EN: Cook two cannibal cheeseburgers -->
+  <CAN_Cookgrilledsandwich.label>Cook two cannibal cheeseburgers</CAN_Cookgrilledsandwich.label>
+  <!-- EN: A sandwich made of bread, human meat, and cheese. \n\nMakes 2 servings. \n\nFood Effects: Metabolism. -->
+  <CAN_Cookgrilledsandwich.description>A sandwich made of bread, human meat, and cheese. 
+
+Makes 2 servings. 
+
+Food Effects: Metabolism.</CAN_Cookgrilledsandwich.description>
+  <!-- EN: Grilling cannibal sandwich. -->
+  <CAN_Cookgrilledsandwich.jobString>Grilling cannibal sandwich.</CAN_Cookgrilledsandwich.jobString>
+  <!-- EN: Cook eight pots of cannibal stew -->
+  <CAN_Cookstewpot.label>Cook eight pots of cannibal stew</CAN_Cookstewpot.label>
+  <!-- EN: Slow cooks a pot of stew from a combination of human meat and raw plant ingredients. \n\nMakes enough for 8 meals. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping. -->
+  <CAN_Cookstewpot.description>Slow cooks a pot of stew from a combination of human meat and raw plant ingredients. 
+
+Makes enough for 8 meals. 
+
+Food Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</CAN_Cookstewpot.description>
+  <!-- EN: Slow cooking cannibal stew. -->
+  <CAN_Cookstewpot.jobString>Slow cooking cannibal stew.</CAN_Cookstewpot.jobString>
+  <!-- EN: Cook five cannibal tacos -->
+  <CAN_CookTacos.label>Cook five cannibal tacos</CAN_CookTacos.label>
+  <!-- EN: Human meat and Cheese in a corn shell. Requires human meat, cheese, and flour to make. \n\n Makes 5 servings. \n\nFood Effects: Manipulation and Metabolism. -->
+  <CAN_CookTacos.description>Human meat and Cheese in a corn shell. Requires human meat, cheese, and flour to make. 
+
+ Makes 5 servings. 
+
+Food Effects: Manipulation and Metabolism.</CAN_CookTacos.description>
+  <!-- EN: Preparing cannibal tacos. -->
+  <CAN_CookTacos.jobString>Preparing cannibal tacos.</CAN_CookTacos.jobString>
+  <!-- EN: Grill two cannibal kabobs -->
+  <CAN_GrillKabob.label>Grill two cannibal kabobs</CAN_GrillKabob.label>
+  <!-- EN: Human meats and vegetables skewered on a stick and grilled to perfection. -->
+  <CAN_GrillKabob.description>Human meats and vegetables skewered on a stick and grilled to perfection.</CAN_GrillKabob.description>
+  <!-- EN: Grilling cannibal kabob. -->
+  <CAN_GrillKabob.jobString>Grilling cannibal kabob.</CAN_GrillKabob.jobString>
+  <!-- EN: Grill two human steaks -->
+  <CAN_Grillsteak.label>Grill two human steaks</CAN_Grillsteak.label>
+  <!-- EN: Human meat that has been cooked over a grill. //nMakes 2 Human Steaks. -->
+  <CAN_Grillsteak.description>Human meat that has been cooked over a grill. //nMakes 2 Human Steaks.</CAN_Grillsteak.description>
+  <!-- EN: Grilling human steak. -->
+  <CAN_Grillsteak.jobString>Grilling human steak.</CAN_Grillsteak.jobString>
+  <!-- EN: Salt ten human meats -->
+  <CAN_SaltMeat.label>Salt ten human meats</CAN_SaltMeat.label>
+  <!-- EN: Preserve human meats in salt to prevent spoiling. -->
+  <CAN_SaltMeat.description>Preserve human meats in salt to prevent spoiling.</CAN_SaltMeat.description>
+  <!-- EN: Salting human meat. -->
+  <CAN_SaltMeat.jobString>Salting human meat.</CAN_SaltMeat.jobString>
+  <!-- EN: Salt forty human meats -->
+  <CAN_SaltMeatBulk.label>Salt forty human meats</CAN_SaltMeatBulk.label>
+  <!-- EN: Preserve human meats in salt to prevent spoiling. \n\nMakes 40. -->
+  <CAN_SaltMeatBulk.description>Preserve human meats in salt to prevent spoiling. 
+
+Makes 40.</CAN_SaltMeatBulk.description>
+  <!-- EN: Salting human meat. -->
+  <CAN_SaltMeatBulk.jobString>Salting human meat.</CAN_SaltMeatBulk.jobString>
+  <!-- EN: Cook four cannibal stir-fried meals -->
+  <CAN_Stirfrymeal.label>Cook four cannibal stir-fried meals</CAN_Stirfrymeal.label>
+  <!-- EN: Cooks a stir-fried meal from a combination of human meat and raw plant ingredients. \n\nMakes enough for 4 meals.  \n\nFood Effects: Manipulation and Blood Filtration. -->
+  <CAN_Stirfrymeal.description>Cooks a stir-fried meal from a combination of human meat and raw plant ingredients. 
+
+Makes enough for 4 meals.  
+
+Food Effects: Manipulation and Blood Filtration.</CAN_Stirfrymeal.description>
+  <!-- EN: Cooking cannibal stir-fried meals. -->
+  <CAN_Stirfrymeal.jobString>Cooking cannibal stir-fried meals.</CAN_Stirfrymeal.jobString>
+</LanguageData>

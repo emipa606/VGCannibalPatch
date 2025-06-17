@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 388168985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21d350f525facc8972a715560ce2e410
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 21d350f525facc8972a715560ce2e410
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_meatpie.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_Tacos.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_bowlstew.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_CannibalLavish.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_SaltedMeat.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_Kabob.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_CannibalPemmican.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_pizza.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_Grilledsteak.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_CannibalSurvivalPack.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_grilledmeat.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_stirfry.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_CannibalSimple.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_Category.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_CannibalFine.png
+- Assets/Data/Mlie.CannibalMeals.VGP/Textures/VGP/CAN_CannibalKibble.png
+Dependencies: []
