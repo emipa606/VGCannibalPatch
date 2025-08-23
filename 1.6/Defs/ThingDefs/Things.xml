@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Cheeseburger -->
-  <ThingDef ParentName="MealRottable">
+  <ThingDef ParentName="VG_MealRottable">
     <defName>CAN_grilledmeat</defName>
     <label>Cannibal Cheese Burger</label>
     <description>Two slices of bread with grilled human meat and cheese melt. \n\nFood Effects: Metabolism.</description>
@@ -30,7 +30,7 @@
     </thingCategories>
   </ThingDef>
   <!-- Pizza -->
-  <ThingDef ParentName="MealRottable">
+  <ThingDef ParentName="VG_MealRottable">
     <defName>CAN_pizza</defName>
     <label>Cannibal pizza</label>
     <description>Cannibalpizza in 30 minutes or less! \n\nFood Effects: Consciousness and Metabolism.</description>
@@ -61,7 +61,7 @@
     </thingCategories>
   </ThingDef>
   <!-- Tacos -->
-  <ThingDef ParentName="MealRottable">
+  <ThingDef ParentName="VG_MealRottable">
     <defName>CAN_Tacos</defName>
     <label>Cannibal Tacos</label>
     <description>Human Meat and Cheese in a Corn shell. \n\nFood Effects: Manipulation and Metabolism.</description>
@@ -93,7 +93,7 @@
     </thingCategories>
   </ThingDef>
   <!-- Grilled Steak -->
-  <ThingDef ParentName="MealRottable">
+  <ThingDef ParentName="VG_MealRottable">
     <defName>CAN_Grilledsteak</defName>
     <label>Grilled Human Steak</label>
     <description>Human meat that has been cooked over a grill.</description>
@@ -117,7 +117,7 @@
     </thingCategories>
   </ThingDef>
   <!-- Kabob -->
-  <ThingDef ParentName="MealRottable">
+  <ThingDef ParentName="VG_MealRottable">
     <defName>CAN_Kabob</defName>
     <label>Grilled Cannibal Kabob</label>
     <description>Human meats and Vegetables skewered on a stick and grilled to perfection.</description>
@@ -147,7 +147,7 @@
     </thingCategories>
   </ThingDef>
   <!-- Meat Pie -->
-  <ThingDef ParentName="MealRottable">
+  <ThingDef ParentName="VG_MealRottable">
     <defName>CAN_meatpie</defName>
     <label>Human meat pie</label>
     <description>A simple baked pie with a filling of human meat.</description>

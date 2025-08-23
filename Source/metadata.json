@@ -3,8 +3,14 @@
   "CanAdd": "0",
   "CanRemove": "0",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-17T20:41:40.2085678+02:00",
+  "LastXmlCleaning": "2025-08-23T16:45:21.9611319+02:00",
   "SocialImageSet": true,
   "FundingSet": true,
-  "SearchTags": " cooking"
+  "SearchTags": " cooking",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 28817,
+  "CodeBaseSize": 70
 }
