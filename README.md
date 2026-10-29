@@ -1,6 +1,6 @@
 # [Cannibal Meals (VGP required)](https://steamcommunity.com/sharedfiles/filedetails/?id=1537104826)
 
-![Image](https://i.imgur.com/iCj5o7O.png)
+![Image](https://img.litet.net/logos/Self-Info.png)
 
   
 Adds cannibal versions of ~~all base and~~ Vegetable Garden Project-meals.
@@ -36,13 +36,13 @@ If you have vanilla-type cannibal meals in your save that you would like to keep
 Cannibal and Insect Meals
 https://steamcommunity.com/sharedfiles/filedetails/?id=1558455017
 
-![Image](https://i.imgur.com/5xwDG6H.png)
+![Image](https://img.litet.net/logos/Self-ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -50,4 +50,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1558455017
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/VGCannibalPatch?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/1537104826) | tags:  cooking
+[![Image](https://img.shields.io/github/v/release/emipa606/VGCannibalPatch?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/1537104826) | cooking
